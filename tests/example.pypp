@@ -1,4 +1,11 @@
-say Hello World!
-input: What is your name?
-say Welcome to Py++
-repeat 3 Yay!
+say Welcome to Py++!
+time
+date
+coin
+dice
+rand 1 10
+set name Astolfo
+get name
+if name Astolfo then say You are Astolfo!
+repeat 3 yay
+exit
