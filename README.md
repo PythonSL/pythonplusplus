@@ -3,6 +3,7 @@ Source Code For Python++
 <img width="373" height="257" alt="logo" src="https://github.com/user-attachments/assets/9d5abee2-a17a-4770-89bd-1fd544a93a76" />
 
 Python++ is a lightweight; easy to learn coding language supported by Python. I will try to update the code everyday and bring new commands; bug fixes and more! Make sure to create an issue if you encounter a problem.
+One plus stands for Simplicity and the other stands for Lightweight
 
 Here are all the command's and their explanation:
 
