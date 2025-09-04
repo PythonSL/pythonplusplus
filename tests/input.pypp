@@ -1,0 +1,3 @@
+prompt "Enter your name"
+print "You typed:"
+print user_input
